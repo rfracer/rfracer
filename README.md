@@ -4,7 +4,7 @@ I'm passionate self-taught Frontend Developer and robotics engineer. I love to l
 **Currently looking for my first job as Junior Frontend Developer.**
 
 <p>
-  <a href="https://www.linkedin.com/in/august-biada%C5%82a-12362b207/">
+  <a href="https://www.linkedin.com/in/august-biadala/">
     <img alt="August Biadala Linkedin Link" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a> 
 </p>
