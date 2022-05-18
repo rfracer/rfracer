@@ -13,6 +13,7 @@ I'm passionate self-taught Frontend Developer and robotics engineer. I love to l
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+ <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3&style=flat-square" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -20,6 +21,7 @@ I'm passionate self-taught Frontend Developer and robotics engineer. I love to l
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="ExpressJs" src="https://img.shields.io/badge/Express-gray?style=flat-square" />
+  <img alt="React Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=flat-square&logo=testing-library&logoColor=red" />
 </p>
 
 ## My last projects:
@@ -44,4 +46,4 @@ I'm passionate self-taught Frontend Developer and robotics engineer. I love to l
 
 ### What I'm focusing on 👨‍💻
 
-Currently I'm focused on React and Redux. In the future I would like to develop my backend skills too!
+Currently I'm focused on TypeScript. Next target is Next.JS In the future I would like to develop my backend skills too!
