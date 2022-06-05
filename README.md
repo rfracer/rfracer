@@ -1,6 +1,4 @@
-# Hello, I'm August <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-
-I'm passionate self-taught Frontend Developer and robotics engineer. I love to learn new things and Web Develompent is my crush for years. I would like to work with Single Page Applications that will allow me to become better developer. 
+I'm self-taught Frontend Developer and robotics engineer. I love to learn new things and Web Develompent is my crush for years. I would like to work with Single Page Applications that will allow me to become better developer. 
 **Currently looking for my first job as Junior Frontend Developer.**
 
 <p>
